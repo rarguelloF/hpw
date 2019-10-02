@@ -5,7 +5,7 @@ from setuptools import setup
 
 setup(
     name='hpw',
-    version='0.1.0',
+    version='0.1.1',
     description='hpw is a command line utility for running and retrying any command using HTTP proxies',
     author='Rodrigo Argüello Flores',
     author_email='rarguellof91@gmail.com',
