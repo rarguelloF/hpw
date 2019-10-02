@@ -4,7 +4,7 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-requests = "*"
+requests = ">=2.20.0"
 requests-html = "*"
 
 [dev-packages]
@@ -13,4 +13,4 @@ pylint = "*"
 ipdb = "*"
 
 [requires]
-python_version = "3.6"
+python_version = "3"

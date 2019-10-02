@@ -11,7 +11,7 @@ setup(
     author_email='rarguellof91@gmail.com',
     packages=find_packages(),
     install_requires=[
-        'requests',
+        'requests>=2.20.0',
         'requests-html',
     ],
     entry_points={
